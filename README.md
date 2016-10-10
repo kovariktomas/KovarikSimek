@@ -1,4 +1,4 @@
-# KovarikSimek
+# KovarikSimekTeply
 xRSP 2016/2017
 Členové týmu:
 Kovařík Tomáš
